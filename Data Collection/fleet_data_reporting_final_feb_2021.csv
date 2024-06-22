@@ -1,0 +1,140 @@
+#,# de flotte SPC // SSC Fleet #,Marque // Make,Modèle // Model,Année // Year,Couleur // Color,Couleur PCIM // FIP COLOUR,Coût // Cost,Taxes sur les pneus // Tire levy,Taxes,Prix total calculé // Total purchase price,Lecture actuelle du compteur // Current Odometer Reading,Numéro du modèle // Model number,Litres du moteur // Litres of engine,Ville // City,Province
+1,100000,Chevrolet,Tahoe,2018,Argent glacé métallisé/Silver Ice Metallic,Noir/Black,"$42,578.00",$22.50,"$6,390.08","$48,990.58",35387,CK15706,5.3 / 355,Darthmouth,NS
+2,100001,GMC,Acadia,2018,Mercure métallisé/Quicksilver Metallic,Noir/Black,"$30,584.00",$22.50,"$4,590.98","$35,197.48",18659,TNJ26,2.5 / 193,Darthmouth,NS
+3,100003,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$18.00,"$3,553.80","$27,245.80",21150,RTKH53 29E,3.6 / 283,Darthmouth,NS
+4,100002,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$18.00,"$3,553.80","$27,245.80",11537,RTKH53 29E,3.6 / 283,Halifax,NS
+5,100004,Nissan,Rogue,2018,Noir/Black,Blanc/White,"$23,905.00",$22.50,"$3,589.13","$27,516.63",11071,Y6BG18,2.5 / 170,Greenwood,NS
+6,100005,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$22.50,"$3,589.13","$27,516.63",12305,Y6BG18,2.5 / 170,Oromocto,NB
+7,100006,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$22.50,"$3,589.13","$27,516.63",12624,Y6BG18,2.5 / 170,Oromocto,NB
+8,100007,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$3,588.00","$27,508.00",13243,Y6BG18,2.5 / 170,St. John's,NFL
+9,100012,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",59,RTKH53,3.6 / 283,Moncton,NB
+10,200018,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",1019,RTKH53,3.6 / 283,Montreal,QC
+11,200019,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",1173,RTKH53,3.6 / 283,Quebec,QC
+12,200000,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$1,196.00","$25,116.00",7846,Y6BG18,2.5 / 170,Richelain,QC
+13,200001,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$1,196.00","$25,116.00",15973,Y6BG18,2.5 / 170,Longue-Pointe,QC
+14,200002,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$1,196.00","$25,116.00",15688,Y6BG18,2.5 / 170,Courcelette,QC
+15,200003,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$1,196.00","$25,116.00",15201,Y6BG18,2.5 / 170,Courcelette,QC
+16,200004,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$1,196.00","$25,116.00",6001,Y6BG18,2.5 / 170,Alouette,QC
+17,300006,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",16330,RTKH53 29E,3.6 / 283,Ottawa,ON
+18,200006,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$12.00,"$1,184.30","$24,870.30",5981,RTKH53 29E,3.6 / 283,Gatineau,QC
+19,200005,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$15.00,"$1,196.00","$25,116.00",11448,Y6BG18,2.5 / 170,Quebec,QC
+20,200008,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$25.00,"$1,196.50","$25,126.50",9494,Y6BG18,2.5 / 170,Alouette,QC
+21,200009,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",5669,Y6BG19,2.5 / 170,Brossard,QC
+22,200010,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3692,Y6BG19,2.5 / 170,Sherbrooke ,QC
+23,200011,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2428,Y6BG19,2.5 / 170,Quebec,QC
+24,200020,Ford,Transit Connect,2019,Argent/Silver,Noir/Black,"$27,504.00",$15.00,"$1,375.95","$28,894.95",825,E9E 200A,2.0 / 169,Gatineau,QC
+25,200021,Dodge ,Caravan,2019,Gris/Grey,Blanc/White,"$27,562.00",$20.00,"$1,379.10","$28,961.10",6061,RTKH53,3.6 / 283,Montreal,QC
+26,300000,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",5409,RTKH53 29E,3.6 / 283,Ottawa,ON
+27,300001,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",9617,RTKH53 29E,3.6 / 283,Ottawa,ON
+28,300002,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",7177,RTKH53 29E,3.6 / 283,Trenton,ON
+29,300003,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",6806,RTKH53 29E,3.6 / 283,Trenton,ON
+30,300004,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",5354,RTKH53 29E,3.6 / 283,Kingston,ON
+31,300005,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",4216,RTKH53 29E,3.6 / 283,Kingston,ON
+32,300007,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$16.50,"$3,109.80","$27,031.30",6812,Y6BG18,2.5 / 170,Petawawa,ON
+33,300008,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",20885,RTKH53 29E,3.6 / 283,Borden,ON
+34,300009,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",4114,RTKH53 29E,3.6 / 283,Tronto,ON
+35,300010,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",31353,RTKH53 29E,3.6 / 283,London,ON
+36,300011,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",4462,RTKH53 29E,3.6 / 283,Ottawa,ON
+37,300012,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",3693,RTKH53 29E,3.6 / 283,Burlington,ON
+38,300016,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$13.20,"$3,079.34","$26,766.54",9230,RTKH53 29E,3.6 / 283,Ottawa,ON
+39,300013,GMC,Acadia,2018,Mercure métallisé/Quicksilver Metallic,Noir/Black,"$30,584.00",$16.50,"$3,978.07","$34,578.57",20506,TNJ26,2.5 / 193,Ottawa,ON
+40,300014,GMC,Acadia,2018,Mercure métallisé/Quicksilver Metallic,Noir/Black,"$30,584.00",$16.50,"$3,978.70","$34,579.20",14577,TNJ26,2.5 / 193,London,ON
+41,300015,GMC,Acadia,2018,Mercure métallisé/Quicksilver Metallic,Noir/Black,"$30,584.00",$22.50,"$4,590.98","$35,197.48",30269,TNJ26,2.5 / 193,Milton,ON
+42,300018,Dodge ,Grand Caravan,2008,Argent/Silver,Noir/Black,--,--,--,--,107699,--,--,Stoney Creek,ON
+43,300019,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",3206,RTKH53,3.6 / 283,Newmarket,ON
+44,300024,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",5960,RTKH53,3.6 / 283,Ottawa,ON
+45,300025,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",2059,RTKH53,3.6 / 283,Ottawa,ON
+46,300026,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",2778,RTKH53,3.6 / 283,Borden,ON
+47,400000,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",19218,Y6BG18,2.5 / 170,Regina,SK
+48,400001,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$18.75,"$1,196.19","$25,119.94",21825,Y6BG18,2.5 / 170,Winnipeg,MB
+49,400002,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",10987,Y6BG18,2.5 / 170,Calgary,AB
+50,400003,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",7575,Y6BG18,2.5 / 170,Saskatoon,SK
+51,400004,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",4654,Y6BG18,2.5 / 170,Edmonton,AB
+52,400005,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$18.75,"$1,196.19","$25,119.94",3752,Y6BG18,2.5 / 170,Shilo,MB
+53,400006,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$18.75,"$1,196.19","$25,119.94",3545,Y6BG18,2.5 / 170,Winnipeg,MB
+54,400007,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",7419,Y6BG18,2.5 / 170,Edmonton,AB
+55,400008,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",2759,Y6BG18,2.5 / 170,Ralston,AB
+56,400009,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",6948,Y6BG18,2.5 / 170,Edmonton,AB
+57,400010,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$20.00,"$1,196.25","$25,121.25",1697,Y6BG18,2.5 / 170,Cold Lake,AB
+58,500002,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$20.00,"$1,184.70","$24,878.70",7678,RTKH53 29E,3.6 / 283,Victoria,BC
+59,500003,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$25.00,"$1,196.50","$25,126.50",6896,Y6BG18,2.5 / 170,Comox,BC
+60,400012,Dodge ,Caravan,2012,Gris/Grey,Blanc/White,--,--,--,--,32200,--,--,Winnipeg,MB
+61,400013,RAM,1500,2012,Vert perle/Pearl Green,Blanc/White,--,--,--,--,116303,--,--,Regina,SK
+62,400014,Ford ,Expedition,2010,Noir/Black,Blanc/White,--,--,--,--,90754,--,--,Regina,SK
+63,400015,Ford,Explorer,2012,Gris/Grey,Blanc/White,--,--,--,--,45614,--,--,Winnipeg,MB
+64,400011,GMC,Acadia,2018,Mercure métallisé/Quicksilver Metallic,Noir/Black,"$30,584.00",$20.00,"$1,530.20","$32,134.20",37730,TNJ26,2.5 / 193,Edmonton,AB
+65,400023,Dodge ,Grand Caravan,2019,Gris/Grey,Blanc/White,"$27,562.00",$20.00,"$1,379.10","$28,961.10",6802,RTKH53,3.6 / 283,Edmonton,AB
+66,400022,RAM,1500,2012,Gris foncé/Dark Gray,Blanc/White,--,--,--,--,127773,--,--,Edmonton,AB
+67,500000,Nissan,Rogue,2018,Gris foncé/Dark Gray,Blanc/White,"$23,905.00",$25.00,"$1,196.50","$25,126.50",11625,Y6BG18,2.5 / 170,Surrey,BC
+68,500005,GMC,Acadia,2018,Mercure métallisé/Quicksilver Metallic,Noir/Black,"$30,584.00",$25.00,"$1,530.45","$32,139.45",19958,TNJ26,2.5 / 193,Surrey,BC
+69,500006,Chevrolet,Tahoe,2018,Argent glacé métallisé/Silver Ice Metallic,Noir/Black,"$42,578.00",$25.00,"$2,130.15","$44,733.15",17010,CK15706,5.3 / 355,Kamloops,BC
+70,500009,Chevrolet,Uplander,2009,Gris/Grey,Noir/Black,--,--,--,--,105667,--,--,Surrey,BC
+71,500007,Dodge ,Grand Caravan,2019,Gris/Grey,Noir/Black,"$27,562.00",$20.00,"$1,379.10","$28,961.10",2408,RTKH53,3.6 / 283,Surrey,BC
+72,500004,Dodge,Grand Caravan,2018,Rouge/Red,Blanc/White,"$23,674.00",$20.00,"$1,184.70","$24,878.70",5202,RTKH53 29E,3.6 / 283,Vancouver,BC
+73,500010,Chevrolet,Uplander,2009,Gris/Grey,Noir/Black,--,--,--,--,83248,--,--,Prince George,BC
+74,500012,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",11632,Y6BG19,2.5 / 170,Victoria,BC
+75,500016,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",1176,RTKH53,3.6 / 283,Vancouver,BC
+76,500017,Dodge,Grand Caravan,2019,Argent/Silver,Noir/Black,"$24,955.00",$20.00,"$1,248.75","$26,223.75",3535,RTKH53,3.6 / 283,Victoria,BC
+77,341649,Toyota,RAV-4,2016,Gris/Grey,Noir/Black,"$32,400.53",--,--,--,81965,--,--,Ottawa,ON
+78,8-630,Dodge,Grand Caravan,2009,Bleue/Blue,Blanc/White,--,--,--,--,62842,--,--,Gatineau,QC
+79,100008,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2129,Y6BG19,2.5 / 170,Halifax,NS
+80,100009,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1869,Y6BG19,2.5 / 170,Oromocto,NB
+81,100010,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",4168,Y6BG19,2.5 / 170,Shearwater,NS
+82,100011,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",4825,Y6BG19,2.5 / 170,Shearwater,NS
+83,200012,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2341,Y6BG19,2.5 / 170,Courcelette,QC
+84,200013,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2127,Y6BG19,2.5 / 170,Courcelette,QC
+85,200014,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3809,Y6BG19,2.5 / 170,Courcelette,QC
+86,200015,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3351,Y6BG19,2.5 / 170,Alouette,QC
+87,200016,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3834,Y6BG19,2.5 / 170,Richelieu,QC
+88,200017,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2784,Y6BG19,2.5 / 170,Montreal,QC
+89,300020,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3305,Y6BG19,2.5 / 170,Borden,ON
+90,300021,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1989,Y6BG19,2.5 / 170,Kingston,ON
+91,300022,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",8575,Y6BG19,2.5 / 170,Toronto,ON
+92,300023,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1185,Y6BG19,2.5 / 170,Trenton,ON
+93,300027,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",865,Y6BG19,2.5 / 170,Petawawa,ON
+94,300028,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",445,Y6BG19,2.5 / 170,Ottawa,ON
+95,300029,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3339,Y6BG19,2.5 / 170,Ottawa,ON
+96,400016,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",3768,Y6BG19,2.5 / 170,Edmonton,AB
+97,400017,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",15038,Y6BG19,2.5 / 170,Denwood,AB
+98,400018,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2787,Y6BG19,2.5 / 170,Winnipeg,MB
+99,400019,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1088,Y6BG19,2.5 / 170,Winnipeg,MB
+100,400020,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1400,Y6BG19,2.5 / 170,Shilo,MB
+101,500013,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",2725,Y6BG19,2.5 / 170,Victoria,BC
+102,500014,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1455,Y6BG19,2.5 / 170,Vancouver,BC
+103,500015,Nissan,Rogue ,2019,Gris foncé/Dark Gray,Blanc/White,"$24,326.00",$15.00,"$1,217.05","$25,558.05",1277,Y6BG19,2.5 / 170,Lazo,BC
+104,300030,Ford,Explorer Hybrid,2020,Magnetic Grey,n/a,"$48,807.00",$16.50,"$6,347.06","$55,170.56",,K8F 310A,3.3/TBD,Ottawa,ON
+105,300031,Chevrolet,Silverado,2020,Silver,Black,"$33,965.00",$0.00,"$4,415.45","$38,380.45",,CC10903,4.3 / 285,Ottawa,ON
+106,300032,Ford,Transit Connect,2020,Silver,Black,"$27,766.00",$0.00,"$3,609.58","$31,375.58",,S7S 100A,2.0 / 169,Toronto,ON
+107,300033,Ford,Transit Connect,2020,Silver,Black,"$27,766.00",$0.00,"$3,609.58","$31,375.58",,S7S 100A,2.0 / 169,Borden,ON
+108,300034,Nissan ,Rogue,2020,Dark Gray,White,"$25,754.00",$0.00,"$3,348.02","$29,102.02",,Y6BG10/SE00,2.5 / 170,Petawawa,ON
+109,300035,Subaru,Forester,2020,Silver,Black,"$26,123.00",$0.00,"$3,395.99","$29,518.99",,LJ2 25,2.5 / 182,London,ON
+110,300036,Subaru,Forester,2020,Silver,Black,"$26,123.00",$0.00,"$3,395.99","$29,518.99",,LJ2 25,2.5 / 182,North Bay,ON
+111,300037,Subaru,Forester,2020,Silver,Black,"$26,123.00",$0.00,"$3,395.99","$29,518.99",,LJ2 25,2.5 / 182,Stoney Creek,ON
+112,400024,GMC,Acadia,2020,Silver,Black,"$30,496.00",$18.75,"$1,525.74","$32,040.49",,TNB26 (3SA),3.6 / 310,Winnipeg,MB
+113,400025,GMC,Acadia,2020,Silver,Black,"$30,496.00",$18.75,"$1,525.74","$32,040.49",,TNB26 (3SA),3.6 / 310,Winnipeg,MB
+114,400026,Ford,Transit Connect,2020,Silver,Black,"$27,766.00",$18.75,"$1,389.24","$29,173.99",,S7S 100A,2.0 / 169,Winnipeg,MB
+115,400027,Ford,F-150,2020,Silver,Black,"$34,170.00",$20.00,"$1,709.50","$35,899.50",,F1C 100A,3.3 / 290,Regina,SK
+116,400028,Jeep,Grand Cherokee,2020,Silver,Black,"$36,947.00",$20.00,"$1,848.35","$38,815.35",,WKJH74 23E,3.6 / 290,Regina,SK
+117,400029,GMC,Acadia,2020,Silver,Black,"$30,496.00",$20.00,"$1,525.80","$32,041.80",,TNB26 (3SA),3.6 / 310,Moose Jaw,SK
+118,400030,Nissan,Pathfinder,2020,Dark Gray,White,"$30,289.00",$20.00,"$1,515.45","$31,824.45",,5XBG10/AA00,3.5 / 284,Edmonton,AB
+119,400031,GMC,Acadia,2020,Silver,Black,"$30,496.00",$20.00,"$1,525.80","$32,041.80",,TNB26 (3SA),3.6 / 310,Cold Lake,AB
+120,400032,GMC,Acadia,2020,Silver,Black,"$30,496.00",$20.00,"$1,525.80","$32,041.80",,TNB26 (3SA),3.6 / 310,Edmonton,AB
+121,500001,GMC,Acadia,2020,Silver,Black,"$30,496.00",$25.00,"$1,526.05","$32,047.05",,TNB26 (3SA),3.6 / 310,Surrey,BC
+122,500008,Subaru,Forester,2020,Silver,Black,"$26,123.00",$25.00,"$1,307.40","$27,455.40",,LJ2 25,2.5 / 182,Prince George,BC
+123,500011,GMC,Acadia,2020,Silver,Black,"$30,496.00",$25.00,"$1,526.05","$32,047.05",,TNB26 (3SA),3.6 / 310,Chilliwack,BC
+124,500018,Subaru,Forester,2020,Silver,Black,"$26,123.00",$25.00,"$1,307.40","$27,455.40",,LJ2 25,2.5 / 182,Kelowna,BC
+125,200024,CHRYSLER,Pacifica,2021,Silver Metallic,Black,"$53,275.00",$15.00,"$2,664.50","$55,954.50",,RUER53,,Gatineau,QC
+126,300045,FORD,E150,2012,Yellow,Black,,,,,,,,Ottawa,ON
+127,300038,CHEVROLET,EXPRESS,2013,,,,,,,,,,Petawawa,ON
+128,100015,FORD,F250,2012,Silver,Black,,,,,,,,Halifax,NS
+129,300047,FORD,Transit,2015,Blue,,,,,,,,,Ottawa,
+130,100016,FORD,E150,2014,White,Black,,,,,,,,Halifax,NS
+131,300046,DODGE,JOURNEY,2014,Silver,Black,,,,,,,,Ottawa,ON
+132,300048,DODGE,GR CARAVAN,2015,Silver,Black,,,,,,,,Ottawa,ON
+133,400033,FORD,TRANSIT,2016,Blue,White,,,,,,,,Winnipeg,MB
+134,300040,DODGE,GR CARAVAN,2016,,,,,,,,,,Borden,ON
+135,300041,DODGE,GR CARAVAN,2016,,,,,,,,,,Borden,ON
+136,300039,FORD,TRANSIT 150,2017,,,,,,,,,,Petawawa,ON
+137,300042,FORD,TRANSIT,2017,,,,,,,,,,Borden,ON
+138,300044,FORD,TRANSIT,2017,,,,,,,,,,Borden,ON
+139,100017,FORD,TRANSIT,2017,White,Black,,,,,,,,Halifax,NS
